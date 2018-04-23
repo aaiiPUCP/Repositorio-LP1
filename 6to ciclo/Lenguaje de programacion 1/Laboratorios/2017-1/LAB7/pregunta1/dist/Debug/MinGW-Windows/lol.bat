@@ -1,0 +1,1 @@
+pregunta1.exe <pares.txt >out.txt

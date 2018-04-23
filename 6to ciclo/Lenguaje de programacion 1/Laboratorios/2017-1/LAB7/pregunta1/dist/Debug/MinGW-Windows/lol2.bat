@@ -1,0 +1,1 @@
+pregunta1.exe <ClientesPorAtender.txt >out2.txt

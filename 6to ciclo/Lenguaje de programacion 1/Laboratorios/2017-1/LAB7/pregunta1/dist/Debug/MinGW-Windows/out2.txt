@@ -1,0 +1,378 @@
+1. 
+  Dni:9
+  Nombre:CAMACHO AGUERO ELIA ROSA
+  Tiempo de transaccion:362
+  Condicion:normal
+  Tiempo que permaneció en la cola:362
+2. 
+  Dni:1
+  Nombre:JUSTINO CRUZ WILLIAMS
+  Tiempo de transaccion:215
+  Condicion:normal
+  Tiempo que permaneció en la cola:577
+3. 
+  Dni:3
+  Nombre:INGA FLORES CESAR ADOLFO
+  Tiempo de transaccion:313
+  Condicion:normal
+  Tiempo que permaneció en la cola:890
+4. 
+  Dni:3
+  Nombre:CABRERA CANALES GUILLERMO EDRIC
+  Tiempo de transaccion:847
+  Condicion:normal
+  Tiempo que permaneció en la cola:1737
+5. 
+  Dni:4
+  Nombre:PALOMARES VERA HENRRY HUMBERTO
+  Tiempo de transaccion:334
+  Condicion:normal
+  Tiempo que permaneció en la cola:2071
+6. 
+  Dni:7
+  Nombre:MALDONADO FLORIAN JOHANA
+  Tiempo de transaccion:648
+  Condicion:normal
+  Tiempo que permaneció en la cola:2719
+7. 
+  Dni:9
+  Nombre:MEDINA VELASQUEZ MILENA JENNY
+  Tiempo de transaccion:672
+  Condicion:normal
+  Tiempo que permaneció en la cola:3391
+8. 
+  Dni:1
+  Nombre:PAREDES PATINO CHRISTIAN
+  Tiempo de transaccion:336
+  Condicion:normal
+  Tiempo que permaneció en la cola:3727
+9. 
+  Dni:9
+  Nombre:RETAMOSO BARRERA OSCAR
+  Tiempo de transaccion:642
+  Condicion:normal
+  Tiempo que permaneció en la cola:4369
+10. 
+  Dni:1
+  Nombre:HENRIQUEZ ESPINO BEATRIZ
+  Tiempo de transaccion:981
+  Condicion:normal
+  Tiempo que permaneció en la cola:5350
+11. 
+  Dni:7
+  Nombre:CASTRO SUAREZ ROLANDO
+  Tiempo de transaccion:226
+  Condicion:normal
+  Tiempo que permaneció en la cola:5576
+12. 
+  Dni:8
+  Nombre:PRADO FALCON MIRTHA
+  Tiempo de transaccion:701
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:6277
+13. 
+  Dni:9
+  Nombre:MIYAKE MEREL MADELEINE YLIANA
+  Tiempo de transaccion:137
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:6414
+14. 
+  Dni:6
+  Nombre:MORALES VALVERDE INES MARTHA
+  Tiempo de transaccion:369
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:6783
+15. 
+  Dni:5
+  Nombre:CARO POLO SANDRA
+  Tiempo de transaccion:489
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:7272
+16. 
+  Dni:7
+  Nombre:LOZADA YINO MARTHA
+  Tiempo de transaccion:940
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:8212
+17. 
+  Dni:8
+  Nombre:VALVERDE BERROCAL ROSA GABRIELA
+  Tiempo de transaccion:204
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:8416
+18. 
+  Dni:4
+  Nombre:LANDA PISCOYA CHRISTINA
+  Tiempo de transaccion:888
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:9304
+19. 
+  Dni:8
+  Nombre:BARRIOS TOMASICHE CARLA ROCIO
+  Tiempo de transaccion:890
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:10194
+20. 
+  Dni:7
+  Nombre:VELASQUEZ HUAYANAY ALICIA MARIA
+  Tiempo de transaccion:141
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:10335
+21. 
+  Dni:7
+  Nombre:GORDILLO YINO YVONNE ROSARIO
+  Tiempo de transaccion:157
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:10492
+22. 
+  Dni:6
+  Nombre:CHAVEZ PRADO SILVANA
+  Tiempo de transaccion:281
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:10773
+23. 
+  Dni:9
+  Nombre:CORONEL CHUMPITAZ HELI
+  Tiempo de transaccion:374
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:11147
+24. 
+  Dni:1
+  Nombre:PASQUEL QUIO SURAMI JANET
+  Tiempo de transaccion:279
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:11426
+25. 
+  Dni:4
+  Nombre:AQUINO TORO VALENTINA ROCIO
+  Tiempo de transaccion:773
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:12199
+26. 
+  Dni:3
+  Nombre:JUSTINO FORZANI ERICKA VICTORIA
+  Tiempo de transaccion:722
+  Condicion:embarazada
+  Tiempo que permaneció en la cola:12921
+27. 
+  Dni:8
+  Nombre:DELGADO GONZALES GUILLERMO ALFONSO
+  Tiempo de transaccion:840
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:13761
+28. 
+  Dni:2
+  Nombre:CERNA DURAND MARTIN
+  Tiempo de transaccion:734
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:14495
+29. 
+  Dni:7
+  Nombre:CERNA HIJAR JOSE ROLANDO
+  Tiempo de transaccion:841
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:15336
+30. 
+  Dni:2
+  Nombre:CALDERON ORTEGA GUILLERMO
+  Tiempo de transaccion:478
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:15814
+31. 
+  Dni:5
+  Nombre:MARTEL ASMAD BRUNO ROBERTO
+  Tiempo de transaccion:444
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:16258
+32. 
+  Dni:5
+  Nombre:MALDONADO RAMIREZ SILVANA
+  Tiempo de transaccion:241
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:16499
+33. 
+  Dni:8
+  Nombre:PORTUGAL BENAVENTE JOHANA GLORIA
+  Tiempo de transaccion:428
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:16927
+34. 
+  Dni:8
+  Nombre:AMEZQUITA EPIQUEN EVERT ROBERTO
+  Tiempo de transaccion:181
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:17108
+35. 
+  Dni:6
+  Nombre:ARCA AMEZQUITA EDRIC RONALD
+  Tiempo de transaccion:278
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:17386
+36. 
+  Dni:3
+  Nombre:CRUZ FUENTES JOHANA YDALI
+  Tiempo de transaccion:941
+  Condicion:discapacitado
+  Tiempo que permaneció en la cola:18327
+37. 
+  Dni:5
+  Nombre:FERNANDEZ ORTEGA ELIZABETH ELIZABETH
+  Tiempo de transaccion:196
+  Condicion:bebe
+  Tiempo que permaneció en la cola:18523
+38. 
+  Dni:1
+  Nombre:PAIRAZAMAN ALAMO MOISES MIGUEL
+  Tiempo de transaccion:153
+  Condicion:bebe
+  Tiempo que permaneció en la cola:18676
+39. 
+  Dni:4
+  Nombre:MEJIA DE LA HAZA FRANCISCO EDGAR
+  Tiempo de transaccion:235
+  Condicion:bebe
+  Tiempo que permaneció en la cola:18911
+40. 
+  Dni:2
+  Nombre:RAFFO CHUNG ADRIA GLORIA
+  Tiempo de transaccion:346
+  Condicion:bebe
+  Tiempo que permaneció en la cola:19257
+41. 
+  Dni:6
+  Nombre:CORRALES TSUKAZAN IRMA LOURDES
+  Tiempo de transaccion:319
+  Condicion:bebe
+  Tiempo que permaneció en la cola:19576
+42. 
+  Dni:8
+  Nombre:LAURA WONG MELVIN HENRRY
+  Tiempo de transaccion:217
+  Condicion:bebe
+  Tiempo que permaneció en la cola:19793
+43. 
+  Dni:8
+  Nombre:VASQUEZ PAZ ALEX MARTIN
+  Tiempo de transaccion:952
+  Condicion:bebe
+  Tiempo que permaneció en la cola:20745
+44. 
+  Dni:7
+  Nombre:SUAREZ BOLANOS RAFAEL
+  Tiempo de transaccion:170
+  Condicion:bebe
+  Tiempo que permaneció en la cola:20915
+45. 
+  Dni:1
+  Nombre:VILCARA CORREA VICTOR
+  Tiempo de transaccion:600
+  Condicion:bebe
+  Tiempo que permaneció en la cola:21515
+46. 
+  Dni:9
+  Nombre:YOSHINARI RIVERA PAUL
+  Tiempo de transaccion:720
+  Condicion:bebe
+  Tiempo que permaneció en la cola:22235
+47. 
+  Dni:4
+  Nombre:DE LA CUBA ALBERTO PAIRAZAMAN
+  Tiempo de transaccion:168
+  Condicion:bebe
+  Tiempo que permaneció en la cola:22403
+48. 
+  Dni:4
+  Nombre:ASMAD ACUNA ANNIE OFELIA
+  Tiempo de transaccion:366
+  Condicion:anciano
+  Tiempo que permaneció en la cola:22769
+49. 
+  Dni:3
+  Nombre:ACUNA YINO ROCIO YOLANDA
+  Tiempo de transaccion:245
+  Condicion:anciano
+  Tiempo que permaneció en la cola:23014
+50. 
+  Dni:5
+  Nombre:SALAS AGUERO DANIEL
+  Tiempo de transaccion:263
+  Condicion:anciano
+  Tiempo que permaneció en la cola:23277
+51. 
+  Dni:9
+  Nombre:IBEROS VALDERRAMA RAFAEL
+  Tiempo de transaccion:997
+  Condicion:anciano
+  Tiempo que permaneció en la cola:24274
+52. 
+  Dni:3
+  Nombre:GONZALES ARIAS HENRY
+  Tiempo de transaccion:699
+  Condicion:anciano
+  Tiempo que permaneció en la cola:24973
+53. 
+  Dni:4
+  Nombre:HENRIQUEZ PORTUGAL ALEX
+  Tiempo de transaccion:485
+  Condicion:anciano
+  Tiempo que permaneció en la cola:25458
+54. 
+  Dni:2
+  Nombre:AURIS ZIMIC JAVIER DANIEL
+  Tiempo de transaccion:930
+  Condicion:anciano
+  Tiempo que permaneció en la cola:26388
+55. 
+  Dni:5
+  Nombre:VILLEGAS PALOMINO DORIS FREYSA
+  Tiempo de transaccion:711
+  Condicion:anciano
+  Tiempo que permaneció en la cola:27099
+56. 
+  Dni:6
+  Nombre:HIJAR YEP WILLIAMS CHRISTIAN
+  Tiempo de transaccion:781
+  Condicion:anciano
+  Tiempo que permaneció en la cola:27880
+57. 
+  Dni:8
+  Nombre:BENAVENTE AYALA VIRGINIA IRMA
+  Tiempo de transaccion:173
+  Condicion:anciano
+  Tiempo que permaneció en la cola:28053
+58. 
+  Dni:5
+  Nombre:PRADO VERGEL CARLOS JULIAN
+  Tiempo de transaccion:418
+  Condicion:anciano
+  Tiempo que permaneció en la cola:28471
+59. 
+  Dni:4
+  Nombre:VILLA YALLICO TATIANA NANCY
+  Tiempo de transaccion:519
+  Condicion:anciano
+  Tiempo que permaneció en la cola:28990
+60. 
+  Dni:4
+  Nombre:CORREA VIZCARDO MIGUEL
+  Tiempo de transaccion:114
+  Condicion:anciano
+  Tiempo que permaneció en la cola:29104
+61. 
+  Dni:6
+  Nombre:LANDEO SUELDO ADOLFO
+  Tiempo de transaccion:364
+  Condicion:anciano
+  Tiempo que permaneció en la cola:29468
+62. 
+  Dni:8
+  Nombre:PISCOYA BRAVO CESAR BRUNO
+  Tiempo de transaccion:317
+  Condicion:anciano
+  Tiempo que permaneció en la cola:29785
+63. 
+  Dni:4
+  Nombre:NORABUENA PRECIADO CINTHIA
+  Tiempo de transaccion:806
+  Condicion:anciano
+  Tiempo que permaneció en la cola:30591
