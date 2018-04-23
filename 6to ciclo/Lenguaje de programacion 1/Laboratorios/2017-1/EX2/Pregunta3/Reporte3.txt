@@ -1,0 +1,466 @@
+                                             Cursos de la institucion
+Codigo    Nombre                                            Creditos       Requisitos          
+FIS203    Fisica 4                                          4.5            FIS111
+FIS208    Temas De Fisica General                           4.5            FIS111
+FIS218    Fisica Moderna                                    4.5            FIS203/FIS208
+FIS219    Sistemas Electromagneticos Y Optoelectronicos     4.5            FIS208
+FIS220    Tecnicas Computacionales En Fisica                4.5            FIS203/FIS218
+FIS227    Particulas Elementales                            4.5            FIS218/FIS220
+FIS229    Trabajo De Investigacion                          6              FIS220
+FIS230    Teoria De Campos Electromagneticos                3              FIS208/FIS219/FIS220/FIS229
+FIS239    Estado Solido                                     4.5            FIS218/FIS227
+FIS247    Optica Y Fotonica                                 4.5            FIS227
+FIS248    Mecanica Clasica 1                                4.5            FIS219/FIS229
+INF220    Fundamentos De Programacion                       5              MAT219
+INF238    Redes De Computadoras                             4              FIS204/MAT219
+INF239    Sistemas Operativos                               4              INF263/INF281
+INF245    Ingenieria De Software                            4              INF220/INF282
+INF246    Bases De Datos                                    3.75           INF263
+INF248    Sistemas De Informacion 1                         5              INF281/INF238/MAT241
+INF250    Sistemas De Informacion 2                         5              INF248
+INF263    Algoritmia                                        3.75           MAT219/MAT218
+INF281    Lenguaje De Programacion 1                        5              INF220/INF263/MAT218
+INF282    Lenguaje De Programacion 2                        5              INF281
+MAT218    Ecuaciones Diferenciales Aplicadas                4.5            MAT111
+MAT219    Herramientas Matematicas                          4.5            MAT218
+MAT241    Metodos Numericos En Ingenieria                   3              MAT218/MAT219
+MAT781    Matematica Computacional Para Control             3              MAT218/MAT219/MAT241
+MEC206    Termodinamica 1                                   4.5            MAT218
+MEC209    Mecanica De Fluidos                               5.25           MAT218/MEC206
+MEC269    Laboratorio De Termodinamica Y Fluidos            1              MEC206
+MEC270    Procesos De Manufactura                           4              MEC209
+MEC286    Transferencia De Calor                            4.25           MEC206/MEC269
+MEC289    Turbomaquinas Y Maquinas De Desplazamiento Positivo4.25           MEC206/MEC209
+MEC2T2    Introduccion Al Diseno De Maquinas                4.5            MAT781/MEC206/MEC209/INF246
+MEC2T3    Laboratorio De Introduccion Al Diseno De Maquinas 1              MEC2T2
+MEC373    Metrologia                                        3              MAT241/MEC286
+================================================================================================================================================================
+                                    Alumnos de la institucion
+Codigo del alumno: 1346
+Alumno de Intercambio 
+Nombre del alumno: Hijar/Pairazaman/Jenny Delicia
+Pais: Camerun
+Idioms: Frances
+Permanecera 1 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT218    15
+FIS220    10
+FIS208    12
+FIS227    12
+FIS111    11
+FIS229    11
+FIS219    17
+
+Codigo del alumno: 1994
+Alumno de Intercambio 
+Nombre del alumno: Ruiz/Gordillo/Carola Erika
+Pais: Puerto Rico
+Idioms: Ingles
+Permanecera 2 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS220    16
+FIS111    12
+FIS203    5
+FIS229    11
+MAT241    15
+FIS208    11
+FIS219    11
+MAT219    13
+MAT111    11
+MAT218    11
+
+Codigo del alumno: 2075
+Alumno de Intercambio 
+Nombre del alumno: Moya/Aranda/Johnny
+Pais: Colombia
+Idioms: Castellano
+Permanecera 2 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT241    12
+INF263    10
+INF281    15
+MAT111    17
+FIS203    16
+INF248    12
+MAT218    10
+FIS111    13
+MAT219    8
+INF282    11
+INF238    9
+INF220    14
+
+Codigo del alumno: 4450
+Alumno de Intercambio 
+Nombre del alumno: Vega/Munoz/Gonzalo
+Pais: Filipinas
+Idioms: Ingles
+Permanecera 1 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS208    10
+MEC269    12
+FIS111    16
+MEC206    10
+FIS203    18
+
+Codigo del alumno: 5258
+Alumno de Intercambio 
+Nombre del alumno: Gavidia/Mendoza/Ronald Johnny
+Pais: Japon
+Idioms: Japones
+Permanecera 2 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT241    13
+INF263    9
+MAT219    18
+MAT218    12
+INF248    15
+
+Codigo del alumno: 5395
+Alumno de Intercambio 
+Nombre del alumno: Alamo/Pairazaman/Miguel Roberto
+Pais: Austria
+Idioms: Aleman
+Permanecera 1 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT241    11
+FIS111    17
+INF263    14
+FIS203    12
+FIS218    11
+INF238    12
+MAT111    11
+FIS208    14
+INF281    19
+
+Codigo del alumno: 6553
+Alumno de Intercambio 
+Nombre del alumno: Coronado/Figueroa/Johan
+Pais: EEUUAA
+Idioms: Inges
+Permanecera 2 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+INF220    11
+MAT111    11
+MAT219    11
+INF281    9
+MAT218    12
+FIS111    13
+INF263    10
+
+Codigo del alumno: 6702
+Alumno de Intercambio 
+Nombre del alumno: Calixto/Tomasiche/Monica Doris
+Pais: Australia
+Idioms: Ingles
+Permanecera 3 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS227    14
+MAT111    11
+FIS229    12
+MAT241    13
+FIS208    12
+FIS218    8
+FIS219    14
+MAT219    14
+MAT218    15
+MAT781    12
+FIS111    10
+FIS220    16
+
+Codigo del alumno: 6965
+Alumno de Intercambio 
+Nombre del alumno: Antezano/Segura/Teresa Delia
+Pais: Bolivia
+Idioms: Castellano
+Permanecera 3 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT218    14
+MAT241    7
+MAT218    12
+MAT219    11
+MAT111    15
+MAT219    17
+
+Codigo del alumno: 7613
+Alumno de Intercambio 
+Nombre del alumno: Cortez/Segura/Carmela Ines
+Pais: Alemania
+Idioms: Aleman
+Permanecera 3 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS218    11
+MAT219    12
+FIS111    15
+MAT218    10
+FIS203    12
+FIS208    17
+MEC206    9
+
+Codigo del alumno: 8528
+Alumno de Intercambio 
+Nombre del alumno: Zarate/Del_Pozo/Humberto Antonio
+Pais: Ucrania
+Idioms: Ruso
+Permanecera 3 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS208    13
+FIS218    13
+MEC206    13
+FIS219    13
+FIS203    13
+FIS111    13
+
+Codigo del alumno: 9442
+Alumno de Intercambio 
+Nombre del alumno: Florian/Morales/Ydali
+Pais: Brasil
+Idioms: Portuges
+Permanecera 1 semestres
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT219    13
+MAT781    17
+MAT241    10
+MEC206    16
+MEC286    18
+MAT218    14
+MEC209    15
+MAT241    19
+MAT111    12
+
+Codigo del alumno: 20003541
+Alumno Regular 
+Nombre del alumno: Cabrera/Canales/Guillermo Edric
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+INF263    13
+FIS218    11
+FIS111    13
+FIS208    12
+INF220    12
+FIS203    13
+MAT218    11
+
+Codigo del alumno: 20080667
+Alumno Regular 
+Nombre del alumno: Lozada/Yino/Martha
+Especialidad: Matematicas
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MAT219    12
+MAT111    19
+FIS111    11
+FIS208    12
+FIS203    13
+MAT218    11
+
+Codigo del alumno: 20083333
+Alumno Regular 
+Nombre del alumno: Laura/Wong/Melvin Henrry
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MEC206    11
+
+Codigo del alumno: 20097877
+Alumno Regular 
+Nombre del alumno: Coronel/Chumpitaz/Heli
+Especialidad: Fisica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS229    16
+FIS208    13
+FIS227    12
+FIS220    14
+FIS219    15
+FIS111    17
+FIS218    11
+MAT111    18
+
+Codigo del alumno: 20109738
+Alumno Regular 
+Nombre del alumno: Caro/Polo/Sandro
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS208    11
+FIS218    11
+MEC209    7
+MAT218    9
+MEC206    12
+FIS203    11
+INF263    12
+FIS111    11
+
+Codigo del alumno: 20110165
+Alumno Regular 
+Nombre del alumno: Landeo/Sueldo/Adolfo
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS208    13
+MAT111    16
+FIS203    11
+MAT218    14
+FIS111    19
+FIS219    17
+MAT219    12
+FIS218    15
+
+Codigo del alumno: 20119778
+Alumno Regular 
+Nombre del alumno: Morales/Valverde/Ines Martha
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+INF282    13
+MAT219    12
+FIS203    13
+FIS204    12
+FIS111    13
+MAT111    13
+INF263    12
+MAT218    13
+INF220    12
+
+Codigo del alumno: 20120476
+Alumno Regular 
+Nombre del alumno: Henriquez/Espino/Beatriz
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+INF248    15
+FIS208    11
+FIS203    12
+MAT219    13
+INF282    14
+FIS111    11
+INF220    16
+
+Codigo del alumno: 20127352
+Alumno Regular 
+Nombre del alumno: Justino/Cruz/Williams
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MEC206    13
+FIS203    16
+MAT111    15
+FIS111    19
+FIS208    17
+MEC206    11
+FIS218    18
+MEC209    12
+MAT218    14
+
+Codigo del alumno: 20150564
+Alumno Regular 
+Nombre del alumno: Auris/Zimic/Javier Daniel
+Especialidad: Matematicas
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS203    13
+FIS111    13
+MAT218    13
+FIS208    13
+MAT219    13
+MAT111    13
+
+Codigo del alumno: 20160119
+Alumno Regular 
+Nombre del alumno: Paredes/Patino/Christian
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+INF281    15
+INF238    14
+INF263    13
+INF239    17
+INF246    15
+INF220    12
+MAT241    10
+INF282    16
+MAT111    12
+MAT218    14
+INF245    16
+MAT219    13
+
+Codigo del alumno: 20160658
+Alumno Regular 
+Nombre del alumno: Arca/Amezquita/Edric Ronald
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MEC209    19
+MAT218    18
+MEC206    15
+MEC206    20
+MAT111    16
+MEC269    17
+
+Codigo del alumno: 20164217
+Alumno Regular 
+Nombre del alumno: Palomares/Vera/Henrry Humberto
+Especialidad: Fisica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS111    10
+
+Codigo del alumno: 20167828
+Alumno Regular 
+Nombre del alumno: Pasquel/Quio/Surami Janet
+Especialidad: Fisica
+Facultad: EEGGCC
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+FIS111    16
+MAT218    12
+FIS229    12
+FIS219    11
+FIS218    10
+MAT111    12
+FIS208    13
+FIS220    15
+
+Codigo del alumno: 20170596
+Alumno Regular 
+Nombre del alumno: Portugal/Benavente/Johana Gloria
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+LISTADO DE NOTAS: 
+CODIGO    NOTA
+MEC206    14
+MAT218    14
+MAT111    11
+MEC209    15
+MEC209    13
+MAT241    12
+MEC206    11
+MAT219    13
+MAT781    12
+
