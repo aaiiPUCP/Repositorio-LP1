@@ -1,0 +1,5 @@
+En la pregunta 4 faltó implementar la función que decía si se podía matricular o no.
+Guanira mencionó en mi cuadernillo que no era necesario abrir los archivos en el main,
+asi que recomiendo se haga así:
+	ProcesarArchivoUno(nombredelArchivo.txt);
+y dentro de la función abrir el archivo de entrada.
